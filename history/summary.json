@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 783,
-    "timeDay": 2794,
-    "timeWeek": 1412,
-    "timeMonth": 1812,
+    "timeDay": 412,
+    "timeWeek": 1339,
+    "timeMonth": 1610,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2025-10-02": 30,
@@ -35,10 +35,10 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.90%",
     "time": 2813,
-    "timeDay": 2517,
-    "timeWeek": 2450,
-    "timeMonth": 2443,
-    "timeYear": 2857,
+    "timeDay": 2792,
+    "timeWeek": 2470,
+    "timeMonth": 2445,
+    "timeYear": 2849,
     "dailyMinutesDown": {
       "2026-04-20": 116,
       "2026-04-10": 30,
@@ -66,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.89%",
-    "time": 2987,
-    "timeDay": 2700,
-    "timeWeek": 3019,
-    "timeMonth": 2810,
+    "time": 2988,
+    "timeDay": 2550,
+    "timeWeek": 3093,
+    "timeMonth": 2773,
     "timeYear": 3098,
     "dailyMinutesDown": {
       "2026-04-20": 115,
@@ -93,15 +93,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kmu.github.io.ico",
     "slug": "kmu-github-io",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 83,
-    "timeWeek": 165,
-    "timeMonth": 165,
+    "timeDay": 75,
+    "timeWeek": 140,
+    "timeMonth": 163,
     "timeYear": 133,
     "dailyMinutesDown": {}
   },
@@ -122,7 +122,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-28": 128,
+      "2026-04-29": 129,
+      "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
@@ -485,8 +486,7 @@
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
-      "2025-04-30": 1440,
-      "2025-04-29": 1440
+      "2025-04-30": 1440
     }
   }
 ]
