@@ -28,16 +28,16 @@
     "url": "http://www.qsim.t.u-tokyo.ac.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.qsim.t.u-tokyo.ac.jp.ico",
     "slug": "nakayama-group",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.83%",
-    "time": 2826,
-    "timeDay": 2161,
-    "timeWeek": 2439,
-    "timeMonth": 2283,
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.82%",
+    "time": 2820,
+    "timeDay": 2377,
+    "timeWeek": 2458,
+    "timeMonth": 2293,
     "timeYear": 2763,
     "dailyMinutesDown": {
       "2026-02-07": 28,
@@ -57,7 +57,7 @@
       "2026-05-03": 42,
       "2026-05-11": 42,
       "2026-05-28": 247,
-      "2026-08-25": 10
+      "2026-08-25": 39
     }
   },
   {
@@ -65,17 +65,17 @@
     "url": "http://www.dx-gem.t.u-tokyo.ac.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.dx-gem.t.u-tokyo.ac.jp.ico",
     "slug": "dx-gem",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.82%",
-    "time": 3142,
-    "timeDay": 2637,
-    "timeWeek": 2637,
-    "timeMonth": 2992,
-    "timeYear": 3112,
+    "time": 3138,
+    "timeDay": 3447,
+    "timeWeek": 2840,
+    "timeMonth": 3032,
+    "timeYear": 3115,
     "dailyMinutesDown": {
       "2025-12-19": 85,
       "2026-02-07": 28,
@@ -94,7 +94,7 @@
       "2026-05-03": 41,
       "2026-05-11": 38,
       "2026-05-28": 242,
-      "2026-08-25": 5
+      "2026-08-25": 34
     }
   },
   {
@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-25": 210,
+      "2026-08-25": 239,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
