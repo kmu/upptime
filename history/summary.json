@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1949,
-    "timeDay": 401,
-    "timeWeek": 5242,
-    "timeMonth": 6344,
-    "timeYear": 2385,
+    "time": 1975,
+    "timeDay": 13402,
+    "timeWeek": 7092,
+    "timeMonth": 6361,
+    "timeYear": 2421,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.qsim.t.u-tokyo.ac.jp.ico",
     "slug": "nakayama-group",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 2743,
-    "timeDay": 1364,
-    "timeWeek": 2335,
-    "timeMonth": 2235,
-    "timeYear": 2674,
+    "uptime": "99.91%",
+    "uptimeDay": "49.67%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "99.68%",
+    "time": 2741,
+    "timeDay": 864,
+    "timeWeek": 2191,
+    "timeMonth": 2184,
+    "timeYear": 2669,
     "dailyMinutesDown": {
       "2026-02-07": 28,
       "2026-02-23": 65,
@@ -52,7 +52,8 @@
       "2026-05-11": 42,
       "2026-05-28": 247,
       "2026-08-25": 39,
-      "2026-10-21": 0
+      "2026-10-22": 160,
+      "2026-10-21": 565
     }
   },
   {
@@ -66,10 +67,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 3184,
-    "timeDay": 2505,
-    "timeWeek": 3826,
-    "timeMonth": 3333,
+    "time": 3183,
+    "timeDay": 2371,
+    "timeWeek": 3580,
+    "timeMonth": 3318,
     "timeYear": 3135,
     "dailyMinutesDown": {
       "2025-12-19": 85,
@@ -104,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 150,
-    "timeWeek": 133,
-    "timeMonth": 167,
+    "timeDay": 168,
+    "timeWeek": 132,
+    "timeMonth": 170,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -127,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 876,
+      "2026-10-22": 160,
+      "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -490,8 +492,7 @@
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
-      "2025-10-23": 1440,
-      "2025-10-22": 1440
+      "2025-10-23": 1440
     }
   }
 ]
