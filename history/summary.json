@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2002,
-    "timeDay": 13995,
-    "timeWeek": 9025,
-    "timeMonth": 6680,
-    "timeYear": 2458,
+    "time": 2015,
+    "timeDay": 6733,
+    "timeWeek": 8332,
+    "timeMonth": 6537,
+    "timeYear": 2476,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "nakayama-group",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "71.19%",
     "uptimeWeek": "74.39%",
     "uptimeMonth": "94.11%",
     "uptimeYear": "99.33%",
-    "time": 2742,
-    "timeDay": 2531,
-    "timeWeek": 2253,
-    "timeMonth": 2197,
-    "timeYear": 2667,
+    "time": 2744,
+    "timeDay": 3540,
+    "timeWeek": 2107,
+    "timeMonth": 2234,
+    "timeYear": 2669,
     "dailyMinutesDown": {
       "2026-02-07": 28,
       "2026-02-23": 65,
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 3185,
-    "timeDay": 3196,
-    "timeWeek": 3639,
-    "timeMonth": 3315,
-    "timeYear": 3136,
+    "time": 3178,
+    "timeDay": 2123,
+    "timeWeek": 3195,
+    "timeMonth": 3288,
+    "timeYear": 3138,
     "dailyMinutesDown": {
       "2025-12-19": 85,
       "2026-02-07": 28,
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 79,
-    "timeWeek": 125,
-    "timeMonth": 170,
-    "timeYear": 145,
+    "time": 140,
+    "timeDay": 332,
+    "timeWeek": 138,
+    "timeMonth": 171,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   },
   {
@@ -129,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 577,
+      "2026-10-24": 162,
+      "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -492,8 +493,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   }
 ]
